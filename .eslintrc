@@ -4,7 +4,6 @@
   "env": {
     "browser": true,
     "node": true,
-    "jest/globals": true
   },
   "settings": {
     "import/resolver":"webpack"
@@ -20,7 +19,6 @@
   },
   "plugins": [
     "react",
-    "jest",
     "jsx-a11y"
   ]
 }
