@@ -1,0 +1,32 @@
+@import '~react-md/src/scss/globals';
+@import '~react-md/src/scss/typography';
+@import '~react-md/src/scss/transitions';
+@import '~react-md/src/scss/helpers';
+@import '~react-md/src/scss/grids';
+@import '~react-md/src/scss/components/icons';
+@import '~react-md/src/scss/components/papers';
+@import '~react-md/src/scss/components/layovers';
+@import '~react-md/src/scss/components/accessibility';
+@import '~react-md/src/scss/components/lists';
+@import '~react-md/src/scss/components/menus';
+@import '~react-md/src/scss/components/buttons';
+
+
+
+@include react-md-colors();
+@include react-md-helpers-everything;
+@include react-md-layovers();
+@include react-md-menus(true, true);
+@include react-md-buttons;
+
+.product-filters {
+  @extend %md-text-center;
+
+  &__list-wrapper {
+    @extend %md-text-left;
+  }
+
+  &__picker {
+    margin: $md-grid-desktop-margin;
+  }
+}

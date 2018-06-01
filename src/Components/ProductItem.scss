@@ -1,0 +1,27 @@
+@import '~react-md/src/scss/globals';
+@import '~react-md/src/scss/typography';
+@import '~react-md/src/scss/grids';
+@import '~react-md/src/scss/components/avatars';
+@import '~react-md/src/scss/components/lists';
+
+@import '~react-md/src/scss/components/papers';
+@import '~react-md/src/scss/components/cards';
+@import '~react-md/src/scss/components/media';
+@import '~react-md/src/scss/components/selection-controls';
+
+
+@include react-md-papers();
+@include react-md-cards(true, true, true, true, true, true);
+@include react-md-media(false, true, true);
+@include react-md-selection-controls();
+@include react-md-lists();
+
+.product-item {
+  @include react-md-media-aspect-ratio(393, 293);
+
+  background-color: $md-grey-50;
+
+  &__image {
+    width: 100%;
+  }
+}

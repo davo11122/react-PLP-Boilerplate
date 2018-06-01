@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import '~react-md/src/scss/colors';
+@import '~react-md/src/scss/transitions';
+@import '~react-md/src/scss/helpers';
+@import '~react-md/src/scss/typography';
+@import '~react-md/src/scss/grids';
+@import '~react-md/src/scss/components/dividers';
+@import '~react-md/src/scss/components/icons';
+
+
+$md-list-left-padding:1;
+
+@include react-md-grid(true);
+@include react-md-typography(true, true, true, true, true);
+@include react-md-dividers();
+@include react-md-icons();
+@include react-md-color-class-names;
+
+body {
+  margin: 0;
+}
+
+.main {
+  background-color: $md-blue-grey-50;
+}

@@ -1,0 +1,4393 @@
+[
+  {
+    "id": 440,
+    "name": "Main Line Duffel",
+    "slug": "main-line-duffel",
+    "shop_now": "Grab and go",
+    "category_ids": [],
+    "material_id": null,
+    "color_id": 11,
+    "option_types": [
+      {
+        "id": 3,
+        "name": "Color"
+      }
+    ],
+    "variants": [
+      {
+        "id": 440,
+        "special_attribute_id": 5,
+        "price": 285,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/982/monogram/Scout-Mainline-Monogram.png?1525810863",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/982/original/Scout-Mainline-Monogram.png?1525810863"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "35.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 11,
+            "name": "camel",
+            "presentation": "Scout",
+            "option_type_id": 3,
+            "slug": "scout",
+            "position": 4
+          }
+        ],
+        "images": [
+          {
+            "id": 1956,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/956/plp/Scout-Mainline-Front.png?1525704862",
+            "kind": "default",
+            "position": 0
+          },
+          {
+            "id": 1955,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/955/plp/Scout-Mainline-Angle.png?1525704130",
+            "kind": "default",
+            "position": 1
+          },
+          {
+            "id": 1953,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/953/plp/Scout-Mainline-Front_Strap.png?1525699324",
+            "kind": "default",
+            "position": 2
+          },
+          {
+            "id": 1954,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/954/plp/Scout-Mainline-Open.png?1525699333",
+            "kind": "default",
+            "position": 3
+          },
+          {
+            "id": 1981,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/981/plp/Domino-Mainline-mannequin.png?1525800870",
+            "kind": "default",
+            "position": 4
+          },
+          {
+            "id": 1982,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/982/plp/Scout-Mainline-Monogram.png?1525810863",
+            "kind": "monogram",
+            "position": 5
+          }
+        ]
+      },
+      {
+        "id": 439,
+        "special_attribute_id": 5,
+        "price": 285,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/984/monogram/Bebop-Mainline-Monogram.png?1525810997",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/984/original/Bebop-Mainline-Monogram.png?1525810997"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "35.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 8,
+            "name": "red",
+            "presentation": "Bebop",
+            "option_type_id": 3,
+            "slug": "bebop",
+            "position": 7
+          }
+        ],
+        "images": [
+          {
+            "id": 1958,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/958/plp/Bebop-Mainline-Front.png?1525705768",
+            "kind": "default",
+            "position": 15
+          },
+          {
+            "id": 1957,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/957/plp/Bebop-Mainline-Angle.png?1525705765",
+            "kind": "default",
+            "position": 16
+          },
+          {
+            "id": 1959,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/959/plp/Bebop-Mainline-Front_Strap.png?1525705779",
+            "kind": "default",
+            "position": 17
+          },
+          {
+            "id": 1960,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/960/plp/Bebop-Mainline-Open.png?1525705794",
+            "kind": "default",
+            "position": 18
+          },
+          {
+            "id": 1980,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/980/plp/Domino-Mainline-mannequin.png?1525800857",
+            "kind": "default",
+            "position": 19
+          },
+          {
+            "id": 1984,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/984/plp/Bebop-Mainline-Monogram.png?1525810997",
+            "kind": "monogram",
+            "position": 20
+          }
+        ]
+      },
+      {
+        "id": 438,
+        "special_attribute_id": 5,
+        "price": 285,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/971/monogram/Domino-Mainline-Monogram.png?1525707379",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/971/original/Domino-Mainline-Monogram.png?1525707379"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "35.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 17,
+            "name": "domino",
+            "presentation": "Domino",
+            "option_type_id": 3,
+            "slug": "domino",
+            "position": 0
+          }
+        ],
+        "images": [
+          {
+            "id": 1975,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/975/plp/Domino-Mainline-Front.png?1525734606",
+            "kind": "default",
+            "position": 10
+          },
+          {
+            "id": 1961,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/961/plp/Domino-Mainline-Angle.png?1525705905",
+            "kind": "default",
+            "position": 11
+          },
+          {
+            "id": 1963,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/963/plp/Domino-Mainline-Front_Strap.png?1525705928",
+            "kind": "default",
+            "position": 12
+          },
+          {
+            "id": 1964,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/964/plp/Domino-Mainline-Open.png?1525705939",
+            "kind": "default",
+            "position": 13
+          },
+          {
+            "id": 1971,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/971/plp/Domino-Mainline-Monogram.png?1525707379",
+            "kind": "monogram",
+            "position": 14
+          },
+          {
+            "id": 1978,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/978/plp/Domino-Mainline-mannequin.png?1525800739",
+            "kind": "default",
+            "position": 15
+          }
+        ]
+      },
+      {
+        "id": 437,
+        "special_attribute_id": 5,
+        "price": 285,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/985/monogram/Jetty-Mainline-Monogram.png?1525811379",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/985/original/Jetty-Mainline-Monogram.png?1525811379"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "35.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 9,
+            "name": "blue",
+            "presentation": "Jetty",
+            "option_type_id": 3,
+            "slug": "jetty",
+            "position": 6
+          }
+        ],
+        "images": [
+          {
+            "id": 1973,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/973/plp/Jetty-Mainline-Front.png?1525707651",
+            "kind": "default",
+            "position": 5
+          },
+          {
+            "id": 1965,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/965/plp/Jetty-Mainline-Angle.png?1525706872",
+            "kind": "default",
+            "position": 6
+          },
+          {
+            "id": 1967,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/967/plp/Jetty-Mainline-Front_Strap.png?1525706888",
+            "kind": "default",
+            "position": 7
+          },
+          {
+            "id": 1968,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/968/plp/Jetty-Mainline-Open.png?1525706899",
+            "kind": "default",
+            "position": 8
+          },
+          {
+            "id": 1979,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/979/plp/Domino-Mainline-mannequin.png?1525800846",
+            "kind": "default",
+            "position": 9
+          },
+          {
+            "id": 1985,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/985/plp/Jetty-Mainline-Monogram.png?1525811379",
+            "kind": "monogram",
+            "position": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Grand Tour",
+    "slug": "grand-tour",
+    "shop_now": "Ultra lightweight and travel-proof",
+    "category_ids": [
+      23
+    ],
+    "material_id": 27,
+    "color_id": 11,
+    "option_types": [
+      {
+        "id": 4,
+        "name": "Size"
+      },
+      {
+        "id": 3,
+        "name": "Color"
+      },
+      {
+        "id": 6,
+        "name": "Material"
+      }
+    ],
+    "variants": [
+      {
+        "id": 28,
+        "special_attribute_id": 2,
+        "price": 365,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/788/monogram/M-Grand-Tour-Jetty-Retina.png?1492771978",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/788/original/M-Grand-Tour-Jetty-Retina.png?1492771978"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "30.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 9,
+            "name": "blue",
+            "presentation": "Jetty",
+            "option_type_id": 3,
+            "slug": "jetty",
+            "position": 6
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 371,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/371/plp/Jetty-GrandTour-front_strap.png?1525736221",
+            "kind": "default",
+            "position": 31
+          },
+          {
+            "id": 375,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/375/plp/blue_duffel.png?1479228669",
+            "kind": "default",
+            "position": 32
+          },
+          {
+            "id": 380,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/380/plp/2.png?1479229421",
+            "kind": "default",
+            "position": 33
+          },
+          {
+            "id": 383,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/383/plp/blue.png?1479231057",
+            "kind": "default",
+            "position": 34
+          },
+          {
+            "id": 392,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/392/plp/bottom_4.png?1479232791",
+            "kind": "default",
+            "position": 35
+          },
+          {
+            "id": 396,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/396/plp/blue_open.png?1479236248",
+            "kind": "default",
+            "position": 36
+          },
+          {
+            "id": 548,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/548/plp/blue.png?1480973676",
+            "kind": "default",
+            "position": 38
+          },
+          {
+            "id": 1079,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/079/plp/Jetty-Swatch-v3.png?1499695806",
+            "kind": "default",
+            "position": 39
+          },
+          {
+            "id": 1337,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/337/plp/Grand-Tour-mannequin.png?1500262073",
+            "kind": "default",
+            "position": 40
+          },
+          {
+            "id": 788,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/788/plp/M-Grand-Tour-Jetty-Retina.png?1492771978",
+            "kind": "monogram",
+            "position": 41
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "special_attribute_id": 2,
+        "price": 365,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/787/monogram/M-Grand-Tour-Bebop-Retina.png?1492771996",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/787/original/M-Grand-Tour-Bebop-Retina.png?1492771996"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "30.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 8,
+            "name": "red",
+            "presentation": "Bebop",
+            "option_type_id": 3,
+            "slug": "bebop",
+            "position": 7
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 551,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/551/plp/Bebop_GT_Front_Strap-update.png?1525736205",
+            "kind": "default",
+            "position": 21
+          },
+          {
+            "id": 378,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/378/plp/red_duffel.png?1479228732",
+            "kind": "default",
+            "position": 22
+          },
+          {
+            "id": 381,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/381/plp/3.png?1479229441",
+            "kind": "default",
+            "position": 23
+          },
+          {
+            "id": 385,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/385/plp/red.png?1479231095",
+            "kind": "default",
+            "position": 24
+          },
+          {
+            "id": 389,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/389/plp/bottom_2.png?1479232717",
+            "kind": "default",
+            "position": 25
+          },
+          {
+            "id": 397,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/397/plp/red_open.png?1479236270",
+            "kind": "default",
+            "position": 26
+          },
+          {
+            "id": 550,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/550/plp/red.png?1480973807",
+            "kind": "default",
+            "position": 28
+          },
+          {
+            "id": 787,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/787/plp/M-Grand-Tour-Bebop-Retina.png?1492771996",
+            "kind": "monogram",
+            "position": 29
+          },
+          {
+            "id": 1075,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/075/plp/Bebop-Swatch-v3.png?1499695654",
+            "kind": "default",
+            "position": 30
+          },
+          {
+            "id": 1338,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/338/plp/Grand-Tour-mannequin.png?1500262095",
+            "kind": "default",
+            "position": 31
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "special_attribute_id": 2,
+        "price": 365,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/790/monogram/M-Grand-Tour-Scout-Retina.png?1492771941",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/790/original/M-Grand-Tour-Scout-Retina.png?1492771941"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "30.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 11,
+            "name": "camel",
+            "presentation": "Scout",
+            "option_type_id": 3,
+            "slug": "scout",
+            "position": 4
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 374,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/374/plp/Scout-Grand-Tour-Front_Strap.png?1525736355",
+            "kind": "default",
+            "position": 41
+          },
+          {
+            "id": 377,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/377/plp/tan_duffel.png?1482291588",
+            "kind": "default",
+            "position": 42
+          },
+          {
+            "id": 382,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/382/plp/4.png?1482291756",
+            "kind": "default",
+            "position": 43
+          },
+          {
+            "id": 713,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/713/plp/3.png?1482291917",
+            "kind": "default",
+            "position": 44
+          },
+          {
+            "id": 391,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/391/plp/2.png?1482291803",
+            "kind": "default",
+            "position": 45
+          },
+          {
+            "id": 394,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/394/plp/1.png?1482291847",
+            "kind": "default",
+            "position": 47
+          },
+          {
+            "id": 1077,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/077/plp/Scout-Swatch-v3.png?1499695704",
+            "kind": "default",
+            "position": 48
+          },
+          {
+            "id": 1340,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/340/plp/Grand-Tour-mannequin.png?1500262128",
+            "kind": "default",
+            "position": 49
+          },
+          {
+            "id": 790,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/790/plp/M-Grand-Tour-Scout-Retina.png?1492771941",
+            "kind": "monogram",
+            "position": 50
+          }
+        ]
+      },
+      {
+        "id": 151,
+        "special_attribute_id": 2,
+        "price": 365,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/901/monogram/Domino_Grand_Tour_Monogram.png?1497457814",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/901/original/Domino_Grand_Tour_Monogram.png?1497457814"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "30.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 17,
+            "name": "domino",
+            "presentation": "Domino",
+            "option_type_id": 3,
+            "slug": "domino",
+            "position": 0
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 1977,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/977/plp/Domino-Grand-Tour-Front-Strap-update.png?1525735384",
+            "kind": "default",
+            "position": 11
+          },
+          {
+            "id": 861,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/861/plp/Domino-Grand-Tour-Angle-v2.png?1497451613",
+            "kind": "default",
+            "position": 13
+          },
+          {
+            "id": 862,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/862/plp/Domino-Grand-Tour-Front-v2.png?1497451643",
+            "kind": "default",
+            "position": 14
+          },
+          {
+            "id": 863,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/863/plp/Domino-Grand-Tour-Side-v2.png?1497451672",
+            "kind": "default",
+            "position": 15
+          },
+          {
+            "id": 864,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/864/plp/Domino-Grand-Tour-Bottom-v2.png?1497451713",
+            "kind": "default",
+            "position": 16
+          },
+          {
+            "id": 865,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/865/plp/Domino-Grand-Tour-Open_v2.png?1497451736",
+            "kind": "default",
+            "position": 17
+          },
+          {
+            "id": 1078,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/078/plp/Domino-Swatch-v3.png?1499695725",
+            "kind": "default",
+            "position": 18
+          },
+          {
+            "id": 1321,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/321/plp/Grand-Tour-mannequin1.png?1500261794",
+            "kind": "default",
+            "position": 19
+          },
+          {
+            "id": 901,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/901/plp/Domino_Grand_Tour_Monogram.png?1497457814",
+            "kind": "monogram",
+            "position": 20
+          }
+        ]
+      },
+      {
+        "id": 282,
+        "special_attribute_id": 2,
+        "price": 385,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/556/monogram/Cadet_Grand-Tour_Monogram.png?1506432220",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/556/original/Cadet_Grand-Tour_Monogram.png?1506432220"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "30.0",
+        "available_on": "06/15/18",
+        "preorder": true,
+        "option_values": [
+          {
+            "id": 25,
+            "name": "black linen",
+            "presentation": "Cadet",
+            "option_type_id": 3,
+            "slug": "cadet",
+            "position": 5
+          },
+          {
+            "id": 26,
+            "name": "linen",
+            "presentation": "Linen",
+            "option_type_id": 6,
+            "slug": "linen",
+            "position": 1
+          }
+        ],
+        "images": [
+          {
+            "id": 1529,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/529/plp/BB-Grand-Tour-Front_Strap-update.png?1525736136",
+            "kind": "default",
+            "position": 1
+          },
+          {
+            "id": 1521,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/521/plp/BB-Grand-Tour-Angle.png?1506379592",
+            "kind": "default",
+            "position": 2
+          },
+          {
+            "id": 1522,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/522/plp/BB-Grand-Tour-Front.png?1506379607",
+            "kind": "default",
+            "position": 3
+          },
+          {
+            "id": 1667,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/667/plp/BB-Grand-Tour-SIDE.png?1509747282",
+            "kind": "default",
+            "position": 4
+          },
+          {
+            "id": 1523,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/523/plp/BB-Grand-Tour-Bottom.png?1506379632",
+            "kind": "default",
+            "position": 5
+          },
+          {
+            "id": 1524,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/524/plp/BB-Grand-Tour-OPEN.png?1506379649",
+            "kind": "default",
+            "position": 6
+          },
+          {
+            "id": 1556,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/556/plp/Cadet_Grand-Tour_Monogram.png?1506432220",
+            "kind": "monogram",
+            "position": 7
+          },
+          {
+            "id": 1610,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/610/plp/Cadet-Swatch.png?1509121915",
+            "kind": "default",
+            "position": 8
+          },
+          {
+            "id": 1611,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/611/plp/Grand-Tour-mannequin.png?1509122029",
+            "kind": "default",
+            "position": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Stowaway",
+    "slug": "stowaway",
+    "shop_now": "Collapses fully flat for storage\r\n",
+    "category_ids": [
+      23
+    ],
+    "material_id": 27,
+    "color_id": 11,
+    "option_types": [
+      {
+        "id": 3,
+        "name": "Color"
+      },
+      {
+        "id": 6,
+        "name": "Material"
+      }
+    ],
+    "variants": [
+      {
+        "id": 70,
+        "special_attribute_id": 2,
+        "price": 325,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/802/monogram/M-Stowaway-Retina_SCOUT_FINAL-1.png?1494621775",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/802/original/M-Stowaway-Retina_SCOUT_FINAL-1.png?1494621775"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "30.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 11,
+            "name": "camel",
+            "presentation": "Scout",
+            "option_type_id": 3,
+            "slug": "scout",
+            "position": 4
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 451,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/451/plp/20160925_Paravel_02_01.png?1494602466",
+            "kind": "plp",
+            "position": 44
+          },
+          {
+            "id": 1472,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/472/plp/Scout-Stowaway-PLP2.png?1506018400",
+            "kind": "plp",
+            "position": 45
+          },
+          {
+            "id": 699,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/699/plp/scout1.png?1481817698",
+            "kind": "default",
+            "position": 46
+          },
+          {
+            "id": 700,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/700/plp/scout3.png?1481817792",
+            "kind": "default",
+            "position": 47
+          },
+          {
+            "id": 701,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/701/plp/scout4.png?1481817815",
+            "kind": "default",
+            "position": 48
+          },
+          {
+            "id": 702,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/702/plp/scout6.png?1481817838",
+            "kind": "default",
+            "position": 49
+          },
+          {
+            "id": 703,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/703/plp/scout5.png?1481817861",
+            "kind": "default",
+            "position": 50
+          },
+          {
+            "id": 704,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/704/plp/scout2.png?1481817880",
+            "kind": "default",
+            "position": 51
+          },
+          {
+            "id": 802,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/802/plp/M-Stowaway-Retina_SCOUT_FINAL-1.png?1494621775",
+            "kind": "monogram",
+            "position": 52
+          },
+          {
+            "id": 1105,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/105/plp/Scout-Swatch-v3.png?1499696921",
+            "kind": "default",
+            "position": 53
+          },
+          {
+            "id": 1371,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/371/plp/Stowaway-mannequin.png?1500262824",
+            "kind": "default",
+            "position": 54
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "special_attribute_id": 2,
+        "price": 325,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/800/monogram/M-Stowaway-Retina_JETTY_FINAL.png?1494619922",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/800/original/M-Stowaway-Retina_JETTY_FINAL.png?1494619922"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "30.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 9,
+            "name": "blue",
+            "presentation": "Jetty",
+            "option_type_id": 3,
+            "slug": "jetty",
+            "position": 6
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 509,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/509/plp/bluee.png?1479406690",
+            "kind": "plp",
+            "position": 30
+          },
+          {
+            "id": 1470,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/470/plp/Jetty-Stowaway-PLP2.png?1506018359",
+            "kind": "plp",
+            "position": 31
+          },
+          {
+            "id": 685,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/685/plp/blue1.png?1481817083",
+            "kind": "default",
+            "position": 32
+          },
+          {
+            "id": 686,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/686/plp/blue3.png?1481817136",
+            "kind": "default",
+            "position": 33
+          },
+          {
+            "id": 687,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/687/plp/blue4.png?1481817160",
+            "kind": "default",
+            "position": 34
+          },
+          {
+            "id": 688,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/688/plp/blue6.png?1481817190",
+            "kind": "default",
+            "position": 36
+          },
+          {
+            "id": 689,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/689/plp/blue5.png?1481817213",
+            "kind": "default",
+            "position": 38
+          },
+          {
+            "id": 690,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/690/plp/blue2.png?1481817248",
+            "kind": "default",
+            "position": 40
+          },
+          {
+            "id": 800,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/800/plp/M-Stowaway-Retina_JETTY_FINAL.png?1494619922",
+            "kind": "monogram",
+            "position": 41
+          },
+          {
+            "id": 1102,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/102/plp/Jetty-Swatch-v3.png?1499696868",
+            "kind": "default",
+            "position": 42
+          },
+          {
+            "id": 1368,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/368/plp/Stowaway-mannequin.png?1500262754",
+            "kind": "default",
+            "position": 43
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "special_attribute_id": 2,
+        "price": 325,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/799/monogram/M-Stowaway-Retina_BEBOP_FINAL.png?1494619901",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/799/original/M-Stowaway-Retina_BEBOP_FINAL.png?1494619901"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "30.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 8,
+            "name": "red",
+            "presentation": "Bebop",
+            "option_type_id": 3,
+            "slug": "bebop",
+            "position": 7
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 510,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/510/plp/Bebop-Stowaway-PLP.png?1505250953",
+            "kind": "plp",
+            "position": 0
+          },
+          {
+            "id": 1469,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/469/plp/Bebop-Stowaway-PLP2.png?1506018304",
+            "kind": "plp",
+            "position": 1
+          },
+          {
+            "id": 679,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/679/plp/Bebop-Stowaway-Front.png?1505250791",
+            "kind": "default",
+            "position": 2
+          },
+          {
+            "id": 680,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/680/plp/red3.png?1481816793",
+            "kind": "default",
+            "position": 3
+          },
+          {
+            "id": 681,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/681/plp/red4.png?1481816818",
+            "kind": "default",
+            "position": 4
+          },
+          {
+            "id": 682,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/682/plp/red6.png?1481816839",
+            "kind": "default",
+            "position": 5
+          },
+          {
+            "id": 683,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/683/plp/red5.png?1481816865",
+            "kind": "default",
+            "position": 6
+          },
+          {
+            "id": 684,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/684/plp/red2.png?1481816891",
+            "kind": "default",
+            "position": 7
+          },
+          {
+            "id": 799,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/799/plp/M-Stowaway-Retina_BEBOP_FINAL.png?1494619901",
+            "kind": "monogram",
+            "position": 8
+          },
+          {
+            "id": 1100,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/100/plp/Bebop-Swatch-v3.png?1499696839",
+            "kind": "default",
+            "position": 9
+          },
+          {
+            "id": 1369,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/369/plp/Stowaway-mannequin.png?1500262800",
+            "kind": "default",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "id": 285,
+        "special_attribute_id": 2,
+        "price": 345,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/557/monogram/Cadet_Stowaway-Monogram.png?1506432251",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/557/original/Cadet_Stowaway-Monogram.png?1506432251"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "30.0",
+        "available_on": "06/15/18",
+        "preorder": true,
+        "option_values": [
+          {
+            "id": 25,
+            "name": "black linen",
+            "presentation": "Cadet",
+            "option_type_id": 3,
+            "slug": "cadet",
+            "position": 5
+          },
+          {
+            "id": 26,
+            "name": "linen",
+            "presentation": "Linen",
+            "option_type_id": 6,
+            "slug": "linen",
+            "position": 1
+          }
+        ],
+        "images": [
+          {
+            "id": 1539,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/539/plp/Cadet-Stowaway-PLP.png?1506380164",
+            "kind": "plp",
+            "position": 22
+          },
+          {
+            "id": 1550,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/550/plp/Cadet-Stowaway-PLP2.png?1506385335",
+            "kind": "plp",
+            "position": 23
+          },
+          {
+            "id": 1553,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/553/plp/BB-Stowaway-FRONT.png?1506385423",
+            "kind": "default",
+            "position": 24
+          },
+          {
+            "id": 1541,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/541/plp/BB-Stowaway-Angle.png?1506380196",
+            "kind": "default",
+            "position": 25
+          },
+          {
+            "id": 1551,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/551/plp/BB-Stowaway-Front-Open.png?1506385359",
+            "kind": "default",
+            "position": 26
+          },
+          {
+            "id": 1552,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/552/plp/BB-Stowaway-Side-Open.png?1506385382",
+            "kind": "default",
+            "position": 27
+          },
+          {
+            "id": 1554,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/554/plp/BB-Stowaway-Front-Folded.png?1506385443",
+            "kind": "default",
+            "position": 28
+          },
+          {
+            "id": 1542,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/542/plp/BB-Stowaway-Angle_Strap.png?1506380212",
+            "kind": "default",
+            "position": 29
+          },
+          {
+            "id": 1557,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/557/plp/Cadet_Stowaway-Monogram.png?1506432251",
+            "kind": "monogram",
+            "position": 30
+          },
+          {
+            "id": 1602,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/602/plp/Cadet-Swatch.png?1509121142",
+            "kind": "default",
+            "position": 31
+          },
+          {
+            "id": 1601,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/601/plp/Stowaway-mannequin.png?1509121069",
+            "kind": "default",
+            "position": 32
+          }
+        ]
+      },
+      {
+        "id": 152,
+        "special_attribute_id": 2,
+        "price": 325,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/902/monogram/Domino_Stowaway_Monogram.png?1497457876",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/902/original/Domino_Stowaway_Monogram.png?1497457876"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "30.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 17,
+            "name": "domino",
+            "presentation": "Domino",
+            "option_type_id": 3,
+            "slug": "domino",
+            "position": 0
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 872,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/872/plp/Domino_PLP.png?1497471954",
+            "kind": "plp",
+            "position": 11
+          },
+          {
+            "id": 1473,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/473/plp/Domino-Stowaway-PLP2.png?1506018324",
+            "kind": "plp",
+            "position": 12
+          },
+          {
+            "id": 866,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/866/plp/Domino-Stowaway-Front_v2.png?1497472058",
+            "kind": "default",
+            "position": 13
+          },
+          {
+            "id": 867,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/867/plp/Domino-Stowaway-Angle.png?1497452005",
+            "kind": "default",
+            "position": 14
+          },
+          {
+            "id": 868,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/868/plp/Domino-Stowaway-Open-Front.png?1497452036",
+            "kind": "default",
+            "position": 15
+          },
+          {
+            "id": 869,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/869/plp/Domino-Stowaway-Open-Angle.png?1497452079",
+            "kind": "default",
+            "position": 16
+          },
+          {
+            "id": 870,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/870/plp/Domino-Stowaway-Folded.png?1497452104",
+            "kind": "default",
+            "position": 17
+          },
+          {
+            "id": 871,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/871/plp/Domino-Stowaway-Side_Strap.png?1497452119",
+            "kind": "default",
+            "position": 18
+          },
+          {
+            "id": 902,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/902/plp/Domino_Stowaway_Monogram.png?1497457876",
+            "kind": "monogram",
+            "position": 19
+          },
+          {
+            "id": 1101,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/101/plp/Domino-Swatch-v3.png?1499696852",
+            "kind": "default",
+            "position": 20
+          },
+          {
+            "id": 1372,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/372/plp/Stowaway-mannequin.png?1500262836",
+            "kind": "default",
+            "position": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Week(ender)",
+    "slug": "the-week-ender",
+    "shop_now": "Office, gym, getaway--you name it",
+    "category_ids": [
+      23,
+      24
+    ],
+    "material_id": 27,
+    "color_id": 11,
+    "option_types": [
+      {
+        "id": 3,
+        "name": "Color"
+      },
+      {
+        "id": 6,
+        "name": "Material"
+      }
+    ],
+    "variants": [
+      {
+        "id": 278,
+        "special_attribute_id": 3,
+        "price": 365,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/564/monogram/Cadet-Weekender_Monogram.png?1506439286",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/564/original/Cadet-Weekender_Monogram.png?1506439286"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "30.0",
+        "available_on": "06/15/18",
+        "preorder": true,
+        "option_values": [
+          {
+            "id": 25,
+            "name": "black linen",
+            "presentation": "Cadet",
+            "option_type_id": 3,
+            "slug": "cadet",
+            "position": 5
+          },
+          {
+            "id": 26,
+            "name": "linen",
+            "presentation": "Linen",
+            "option_type_id": 6,
+            "slug": "linen",
+            "position": 1
+          }
+        ],
+        "images": [
+          {
+            "id": 1545,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/545/plp/Cadet-Weekender-PLP.png?1506381155",
+            "kind": "plp",
+            "position": 11
+          },
+          {
+            "id": 1546,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/546/plp/Cadet-Weekender-PLP2.png?1506381175",
+            "kind": "plp",
+            "position": 12
+          },
+          {
+            "id": 1564,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/564/plp/Cadet-Weekender_Monogram.png?1506439286",
+            "kind": "monogram",
+            "position": 13
+          },
+          {
+            "id": 1504,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/504/plp/BB-Weekender-Front.png?1506379089",
+            "kind": "default",
+            "position": 14
+          },
+          {
+            "id": 1566,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/566/plp/BB-Weekender-Angle.png?1506439318",
+            "kind": "default",
+            "position": 15
+          },
+          {
+            "id": 1567,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/567/plp/BB-Weekender-Strap.png?1506439341",
+            "kind": "default",
+            "position": 16
+          },
+          {
+            "id": 1565,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/565/plp/BB-Weekender-OPEN.png?1506439305",
+            "kind": "default",
+            "position": 17
+          },
+          {
+            "id": 1568,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/568/plp/BB-Weekender-HANDLES.png?1506439384",
+            "kind": "default",
+            "position": 18
+          }
+        ]
+      },
+      {
+        "id": 178,
+        "special_attribute_id": 3,
+        "price": 345,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/961/monogram/Domino_Weekender_Monogram.png?1498575967",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/961/original/Domino_Weekender_Monogram.png?1498575967"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "30.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 17,
+            "name": "domino",
+            "presentation": "Domino",
+            "option_type_id": 3,
+            "slug": "domino",
+            "position": 0
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 956,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/956/plp/Domino-Weekender-Front-PDP-v2.png?1498578079",
+            "kind": "plp",
+            "position": 16
+          },
+          {
+            "id": 1458,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/458/plp/Domino-Weekender-PLP.png?1505742287",
+            "kind": "plp",
+            "position": 18
+          },
+          {
+            "id": 926,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/926/plp/Domino-Weekender-Front.png?1498571393",
+            "kind": "default",
+            "position": 19
+          },
+          {
+            "id": 934,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/934/plp/Domino-Weekender-Angle.png?1498571704",
+            "kind": "default",
+            "position": 20
+          },
+          {
+            "id": 935,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/935/plp/Domino-Weekender-Strap.png?1498571721",
+            "kind": "default",
+            "position": 21
+          },
+          {
+            "id": 936,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/936/plp/Domino-Weekender-Open.png?1498571737",
+            "kind": "default",
+            "position": 22
+          },
+          {
+            "id": 937,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/937/plp/Domino-Weekender-Luggage-HANDLES.png?1498571755",
+            "kind": "default",
+            "position": 23
+          },
+          {
+            "id": 961,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/961/plp/Domino_Weekender_Monogram.png?1498575967",
+            "kind": "monogram",
+            "position": 24
+          },
+          {
+            "id": 1059,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/059/plp/Domino-Swatch_v2.jpg?1499453895",
+            "kind": "default",
+            "position": 26
+          },
+          {
+            "id": 1367,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/367/plp/Wkndr-mannequin.png?1500262725",
+            "kind": "default",
+            "position": 27
+          }
+        ]
+      },
+      {
+        "id": 177,
+        "special_attribute_id": 3,
+        "price": 345,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/964/monogram/Scout_Weekender_Monogram.png?1498576012",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/964/original/Scout_Weekender_Monogram.png?1498576012"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "30.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 11,
+            "name": "camel",
+            "presentation": "Scout",
+            "option_type_id": 3,
+            "slug": "scout",
+            "position": 4
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 959,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/959/plp/Scout-Weekender-Front-PDP-v2.png?1498578157",
+            "kind": "plp",
+            "position": 46
+          },
+          {
+            "id": 1457,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/457/plp/Scout-Weekender-PLP.png?1505742408",
+            "kind": "plp",
+            "position": 48
+          },
+          {
+            "id": 929,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/929/plp/Scout-Weekender-Front.png?1498571446",
+            "kind": "default",
+            "position": 49
+          },
+          {
+            "id": 946,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/946/plp/Scout-Weekender-Angle.png?1498572015",
+            "kind": "default",
+            "position": 50
+          },
+          {
+            "id": 947,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/947/plp/Scout-Weekender-Strap.png?1498572035",
+            "kind": "default",
+            "position": 51
+          },
+          {
+            "id": 948,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/948/plp/Scout-Weekender-Open.png?1498572076",
+            "kind": "default",
+            "position": 52
+          },
+          {
+            "id": 949,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/949/plp/Scout-Weekender-Luggage-HANDLES.png?1498572095",
+            "kind": "default",
+            "position": 53
+          },
+          {
+            "id": 964,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/964/plp/Scout_Weekender_Monogram.png?1498576012",
+            "kind": "monogram",
+            "position": 54
+          },
+          {
+            "id": 1115,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/115/plp/Scout-Swatch-v3.png?1499697116",
+            "kind": "default",
+            "position": 56
+          },
+          {
+            "id": 1365,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/365/plp/Wkndr-mannequin.png?1500262659",
+            "kind": "default",
+            "position": 57
+          }
+        ]
+      },
+      {
+        "id": 175,
+        "special_attribute_id": 3,
+        "price": 345,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/960/monogram/Bebop_Weekender_Monogram.png?1498575936",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/960/original/Bebop_Weekender_Monogram.png?1498575936"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "30.0",
+        "available_on": "06/18/18",
+        "preorder": true,
+        "option_values": [
+          {
+            "id": 8,
+            "name": "red",
+            "presentation": "Bebop",
+            "option_type_id": 3,
+            "slug": "bebop",
+            "position": 7
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 955,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/955/plp/Bebop-Weekender-Front-PDP-v2.png?1498578054",
+            "kind": "plp",
+            "position": 1
+          },
+          {
+            "id": 1455,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/455/plp/Bebop-Weekender-PLP.png?1505742272",
+            "kind": "plp",
+            "position": 2
+          },
+          {
+            "id": 925,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/925/plp/Bebop-Weekender-Front.png?1498571371",
+            "kind": "default",
+            "position": 3
+          },
+          {
+            "id": 930,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/930/plp/Bebop-Weekender-Angle.png?1498571594",
+            "kind": "default",
+            "position": 4
+          },
+          {
+            "id": 931,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/931/plp/Bebop-Weekender-Strap.png?1498571612",
+            "kind": "default",
+            "position": 5
+          },
+          {
+            "id": 932,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/932/plp/Bebop-Weekender-Open.png?1498571627",
+            "kind": "default",
+            "position": 6
+          },
+          {
+            "id": 933,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/933/plp/Bebop-Weekender-Luggage-HANDLES.png?1498571650",
+            "kind": "default",
+            "position": 7
+          },
+          {
+            "id": 960,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/960/plp/Bebop_Weekender_Monogram.png?1498575936",
+            "kind": "monogram",
+            "position": 8
+          },
+          {
+            "id": 1111,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/111/plp/Bebop-Swatch-v3.png?1499697036",
+            "kind": "default",
+            "position": 9
+          },
+          {
+            "id": 1362,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/362/plp/Wkndr-mannequin.png?1500262636",
+            "kind": "default",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "id": 174,
+        "special_attribute_id": 3,
+        "price": 345,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/962/monogram/Jetty_Weekender_Monogram.png?1498575982",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/962/original/Jetty_Weekender_Monogram.png?1498575982"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "65.0",
+        "emoji_price": "75.0",
+        "patch_initials_price": "30.0",
+        "available_on": "06/18/18",
+        "preorder": true,
+        "option_values": [
+          {
+            "id": 9,
+            "name": "blue",
+            "presentation": "Jetty",
+            "option_type_id": 3,
+            "slug": "jetty",
+            "position": 6
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 957,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/957/plp/Jetty-Weekender-Front-PDP-v2.png?1498578100",
+            "kind": "plp",
+            "position": 26
+          },
+          {
+            "id": 1454,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/454/plp/Jetty-Weekender-PLP.png?1505742354",
+            "kind": "plp",
+            "position": 28
+          },
+          {
+            "id": 927,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/927/plp/Jetty-Weekender-Front.png?1498571411",
+            "kind": "default",
+            "position": 29
+          },
+          {
+            "id": 938,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/938/plp/Jetty-Weekender-Angle.png?1498571783",
+            "kind": "default",
+            "position": 30
+          },
+          {
+            "id": 939,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/939/plp/Jetty-Weekender-Strap.png?1498571848",
+            "kind": "default",
+            "position": 31
+          },
+          {
+            "id": 940,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/940/plp/Jetty-Weekender-Open.png?1498571865",
+            "kind": "default",
+            "position": 32
+          },
+          {
+            "id": 941,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/941/plp/Jetty-Weekender-Luggage-HANDLES.png?1498571885",
+            "kind": "default",
+            "position": 33
+          },
+          {
+            "id": 962,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/962/plp/Jetty_Weekender_Monogram.png?1498575982",
+            "kind": "monogram",
+            "position": 34
+          },
+          {
+            "id": 1113,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/113/plp/Jetty-Swatch-v3.png?1499697062",
+            "kind": "default",
+            "position": 36
+          },
+          {
+            "id": 1360,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/360/plp/Wkndr-mannequin.png?1500262623",
+            "kind": "default",
+            "position": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Crossbody Capsule",
+    "slug": "crossbody-capsule",
+    "shop_now": "Standout shoulder bag",
+    "category_ids": [
+      24
+    ],
+    "material_id": 27,
+    "color_id": 11,
+    "option_types": [
+      {
+        "id": 3,
+        "name": "Color"
+      },
+      {
+        "id": 4,
+        "name": "Size"
+      },
+      {
+        "id": 6,
+        "name": "Material"
+      }
+    ],
+    "variants": [
+      {
+        "id": 66,
+        "special_attribute_id": 2,
+        "price": 265,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/786/monogram/M-Crossbody-Capsule-Scout-Retina.png?1492772131",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/786/original/M-Crossbody-Capsule-Scout-Retina.png?1492772131"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "06/18/18",
+        "preorder": true,
+        "option_values": [
+          {
+            "id": 11,
+            "name": "camel",
+            "presentation": "Scout",
+            "option_type_id": 3,
+            "slug": "scout",
+            "position": 4
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 455,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/455/plp/SCOUT-Crossbody-PLP-v4.png?1498750831",
+            "kind": "plp",
+            "position": 1
+          },
+          {
+            "id": 1452,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/452/plp/scout-Crossbody-PLP2.png?1506360698",
+            "kind": "plp",
+            "position": 2
+          },
+          {
+            "id": 578,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/578/plp/4.png?1481750263",
+            "kind": "default",
+            "position": 3
+          },
+          {
+            "id": 579,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/579/plp/1.png?1481750394",
+            "kind": "default",
+            "position": 4
+          },
+          {
+            "id": 580,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/580/plp/2.png?1481750428",
+            "kind": "default",
+            "position": 5
+          },
+          {
+            "id": 581,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/581/plp/3.png?1481750463",
+            "kind": "default",
+            "position": 6
+          },
+          {
+            "id": 582,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/582/plp/5.png?1481750490",
+            "kind": "default",
+            "position": 7
+          },
+          {
+            "id": 786,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/786/plp/M-Crossbody-Capsule-Scout-Retina.png?1492772131",
+            "kind": "monogram",
+            "position": 8
+          },
+          {
+            "id": 1063,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/063/plp/Scout-Swatch-v3.png?1499695282",
+            "kind": "default",
+            "position": 9
+          },
+          {
+            "id": 1336,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/336/plp/Xbody-mannequin.png?1500262039",
+            "kind": "default",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "id": 281,
+        "special_attribute_id": 2,
+        "price": 285,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/560/monogram/Cadet-Crossbody-Monogram.png?1506432381",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/560/original/Cadet-Crossbody-Monogram.png?1506432381"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "06/15/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 25,
+            "name": "black linen",
+            "presentation": "Cadet",
+            "option_type_id": 3,
+            "slug": "cadet",
+            "position": 5
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 1510,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/510/plp/Cadet-Crossbody-PLP.png?1506379451",
+            "kind": "plp",
+            "position": 11
+          },
+          {
+            "id": 1517,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/517/plp/BB-Crossbody-Front_Strap.png?1506379544",
+            "kind": "default",
+            "position": 12
+          },
+          {
+            "id": 1514,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/514/plp/BB-Crossbody-Front.png?1506379497",
+            "kind": "default",
+            "position": 13
+          },
+          {
+            "id": 1516,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/516/plp/BB-Crossbody-Bottom.png?1506379532",
+            "kind": "default",
+            "position": 14
+          },
+          {
+            "id": 1518,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/518/plp/BB-Crossbody-Open.png?1506379560",
+            "kind": "default",
+            "position": 15
+          },
+          {
+            "id": 1520,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/520/plp/BB-Crossbody-Spine.png?1506379580",
+            "kind": "default",
+            "position": 16
+          },
+          {
+            "id": 1547,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/547/plp/Cadet-Crossbody-PLP2.png?1506382983",
+            "kind": "plp",
+            "position": 17
+          },
+          {
+            "id": 1560,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/560/plp/Cadet-Crossbody-Monogram.png?1506432381",
+            "kind": "monogram",
+            "position": 18
+          },
+          {
+            "id": 1606,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/606/plp/Cadet-Swatch.png?1509121719",
+            "kind": "default",
+            "position": 19
+          },
+          {
+            "id": 1607,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/607/plp/Xbody-mannequin.png?1509121746",
+            "kind": "default",
+            "position": 20
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "special_attribute_id": 2,
+        "price": 265,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/784/monogram/M-Crossbody-Capsule-Jetty-Retina.png?1492772185",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/784/original/M-Crossbody-Capsule-Jetty-Retina.png?1492772185"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "10/15/17",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 9,
+            "name": "blue",
+            "presentation": "Jetty",
+            "option_type_id": 3,
+            "slug": "jetty",
+            "position": 6
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 452,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/452/plp/JETTY-Crossbody-PLP-v4.png?1498750796",
+            "kind": "plp",
+            "position": 31
+          },
+          {
+            "id": 1450,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/450/plp/jetty-Crossbody-PLP2.png?1506361338",
+            "kind": "plp",
+            "position": 32
+          },
+          {
+            "id": 611,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/611/plp/blue1.png?1481752895",
+            "kind": "default",
+            "position": 33
+          },
+          {
+            "id": 612,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/612/plp/blue2.png?1481752936",
+            "kind": "default",
+            "position": 34
+          },
+          {
+            "id": 613,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/613/plp/blue3.png?1481752963",
+            "kind": "default",
+            "position": 35
+          },
+          {
+            "id": 614,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/614/plp/blue4.png?1481752991",
+            "kind": "default",
+            "position": 36
+          },
+          {
+            "id": 617,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/617/plp/blue5.png?1481753103",
+            "kind": "default",
+            "position": 37
+          },
+          {
+            "id": 784,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/784/plp/M-Crossbody-Capsule-Jetty-Retina.png?1492772185",
+            "kind": "monogram",
+            "position": 38
+          },
+          {
+            "id": 1062,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/062/plp/Jetty-Swatch-v3.png?1499695265",
+            "kind": "default",
+            "position": 39
+          },
+          {
+            "id": 1332,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/332/plp/Xbody-mannequin.png?1500261956",
+            "kind": "default",
+            "position": 40
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "special_attribute_id": 2,
+        "price": 265,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/783/monogram/M-Crossbody-Capsule-Bebop-Retina.png?1492772210",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/783/original/M-Crossbody-Capsule-Bebop-Retina.png?1492772210"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 8,
+            "name": "red",
+            "presentation": "Bebop",
+            "option_type_id": 3,
+            "slug": "bebop",
+            "position": 7
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 488,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/488/plp/BEBOP-Crossbody-PLP-v4.png?1498750763",
+            "kind": "plp",
+            "position": 41
+          },
+          {
+            "id": 1449,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/449/plp/Bebop-Crossbody-PLP2.png?1506361372",
+            "kind": "plp",
+            "position": 42
+          },
+          {
+            "id": 618,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/618/plp/red1.png?1481756458",
+            "kind": "default",
+            "position": 43
+          },
+          {
+            "id": 601,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/601/plp/red2.png?1481752412",
+            "kind": "default",
+            "position": 44
+          },
+          {
+            "id": 602,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/602/plp/red3.png?1481752572",
+            "kind": "default",
+            "position": 45
+          },
+          {
+            "id": 603,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/603/plp/red4.png?1481752604",
+            "kind": "default",
+            "position": 46
+          },
+          {
+            "id": 604,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/604/plp/red5.png?1481752633",
+            "kind": "default",
+            "position": 47
+          },
+          {
+            "id": 783,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/783/plp/M-Crossbody-Capsule-Bebop-Retina.png?1492772210",
+            "kind": "monogram",
+            "position": 48
+          },
+          {
+            "id": 1060,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/060/plp/Bebop-Swatch-v3.png?1499695192",
+            "kind": "default",
+            "position": 49
+          },
+          {
+            "id": 1333,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/333/plp/Xbody-mannequin.png?1500261986",
+            "kind": "default",
+            "position": 50
+          }
+        ]
+      },
+      {
+        "id": 153,
+        "special_attribute_id": 2,
+        "price": 265,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/903/monogram/Domino_Crossbody_Monogram.png?1497457929",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/903/original/Domino_Crossbody_Monogram.png?1497457929"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 17,
+            "name": "domino",
+            "presentation": "Domino",
+            "option_type_id": 3,
+            "slug": "domino",
+            "position": 0
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 878,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/878/plp/DOMINO-Crossbody-PLP-v4.png?1498750780",
+            "kind": "plp",
+            "position": 21
+          },
+          {
+            "id": 1453,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/453/plp/domino-Crossbody-PLP2.png?1506360757",
+            "kind": "plp",
+            "position": 22
+          },
+          {
+            "id": 873,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/873/plp/Domino-Crossbody-Front-w-Strap.png?1497452642",
+            "kind": "default",
+            "position": 23
+          },
+          {
+            "id": 874,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/874/plp/Domino-Crossbody-Front.png?1497452664",
+            "kind": "default",
+            "position": 24
+          },
+          {
+            "id": 875,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/875/plp/Domino-Crossbody-Back-Spine.png?1497452685",
+            "kind": "default",
+            "position": 25
+          },
+          {
+            "id": 876,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/876/plp/Domino-Crossbody-Open.png?1497452713",
+            "kind": "default",
+            "position": 26
+          },
+          {
+            "id": 877,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/877/plp/Domino-Crossbody-Bottom.png?1497452742",
+            "kind": "default",
+            "position": 27
+          },
+          {
+            "id": 903,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/903/plp/Domino_Crossbody_Monogram.png?1497457929",
+            "kind": "monogram",
+            "position": 28
+          },
+          {
+            "id": 1061,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/061/plp/Domino-Swatch-v3.png?1499695217",
+            "kind": "default",
+            "position": 29
+          },
+          {
+            "id": 1335,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/335/plp/Xbody-mannequin.png?1500262017",
+            "kind": "default",
+            "position": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "name": "Doubletake",
+    "slug": "doubletake",
+    "shop_now": "One bag, two straps, three ways to wear it",
+    "category_ids": [
+      22,
+      24
+    ],
+    "material_id": null,
+    "color_id": 32,
+    "option_types": [
+      {
+        "id": 3,
+        "name": "Color"
+      }
+    ],
+    "variants": [
+      {
+        "id": 338,
+        "special_attribute_id": 3,
+        "price": 215,
+        "can_supply": true,
+        "retina_images_for_monogram": [],
+        "can_be_monogrammed": false,
+        "initials_price": null,
+        "emoji_price": null,
+        "patch_initials_price": "0.0",
+        "available_on": "11/30/17",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 32,
+            "name": "red leather",
+            "presentation": "Roulette",
+            "option_type_id": 3,
+            "slug": "roulette",
+            "position": 3
+          }
+        ],
+        "images": [
+          {
+            "id": 1728,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/728/plp/Roulette-DT-Front_Strap.png?1510863312",
+            "kind": "default",
+            "position": 11
+          },
+          {
+            "id": 1723,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/723/plp/Roulette-DT-Angle_Strap.png?1510863244",
+            "kind": "default",
+            "position": 12
+          },
+          {
+            "id": 1725,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/725/plp/Roulette-DT-Back_Strap.png?1510863269",
+            "kind": "default",
+            "position": 13
+          },
+          {
+            "id": 1727,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/727/plp/Roulette-DT-Front_Belt.png?1510863300",
+            "kind": "default",
+            "position": 14
+          },
+          {
+            "id": 1724,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/724/plp/Roulette-DT-Back_Belt.png?1510863258",
+            "kind": "default",
+            "position": 15
+          },
+          {
+            "id": 1726,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/726/plp/Roulette-DT-Front.png?1510863290",
+            "kind": "default",
+            "position": 16
+          },
+          {
+            "id": 1729,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/729/plp/Roulette-Dt-Open.png?1510863321",
+            "kind": "default",
+            "position": 17
+          },
+          {
+            "id": 1733,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/733/plp/Doubletake-mannequin-roulette-belt.png?1510863913",
+            "kind": "default",
+            "position": 18
+          },
+          {
+            "id": 1732,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/732/plp/Doubletake-mannequin-roulette-strap.png?1510863902",
+            "kind": "default",
+            "position": 19
+          },
+          {
+            "id": 1730,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/730/plp/Roulette-Doubletake-PLP.png?1510863872",
+            "kind": "plp",
+            "position": 20
+          },
+          {
+            "id": 1731,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/731/plp/Roulette-Doubletake-PLP-RO.png?1510863887",
+            "kind": "plp",
+            "position": 21
+          }
+        ]
+      },
+      {
+        "id": 336,
+        "special_attribute_id": 3,
+        "price": 215,
+        "can_supply": false,
+        "retina_images_for_monogram": [],
+        "can_be_monogrammed": false,
+        "initials_price": null,
+        "emoji_price": null,
+        "patch_initials_price": "0.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 30,
+            "name": "black leather",
+            "presentation": "Derby",
+            "option_type_id": 3,
+            "slug": "derby",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 1673,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/673/plp/Derby-Dt-Front_Strap.png?1510763692",
+            "kind": "default",
+            "position": 0
+          },
+          {
+            "id": 1668,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/668/plp/Derby-Dt-Angle_Strap.png?1510763628",
+            "kind": "default",
+            "position": 1
+          },
+          {
+            "id": 1670,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/670/plp/Derby-Dt-Back_Strap.png?1510763649",
+            "kind": "default",
+            "position": 2
+          },
+          {
+            "id": 1672,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/672/plp/Derby-DT-Front_Belt.png?1510763682",
+            "kind": "default",
+            "position": 3
+          },
+          {
+            "id": 1669,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/669/plp/Derby-Dt-Back_Belt.png?1510763640",
+            "kind": "default",
+            "position": 4
+          },
+          {
+            "id": 1671,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/671/plp/Derby-DT-Front.png?1510763658",
+            "kind": "default",
+            "position": 5
+          },
+          {
+            "id": 1674,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/674/plp/Derby-Dt-Open.png?1510763704",
+            "kind": "default",
+            "position": 6
+          },
+          {
+            "id": 1689,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/689/plp/Doubletake-mannequin-derby-belt.png?1510764058",
+            "kind": "default",
+            "position": 7
+          },
+          {
+            "id": 1690,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/690/plp/Doubletake-mannequin-derby-strap.png?1510764071",
+            "kind": "default",
+            "position": 8
+          },
+          {
+            "id": 1695,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/695/plp/Derby-Doubletake-PLP1.png?1510764436",
+            "kind": "plp",
+            "position": 9
+          },
+          {
+            "id": 1697,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/697/plp/Derby-Doubletake-PLP-RO.png?1510764993",
+            "kind": "plp",
+            "position": 10
+          }
+        ]
+      },
+      {
+        "id": 334,
+        "special_attribute_id": 3,
+        "price": 195,
+        "can_supply": true,
+        "retina_images_for_monogram": [],
+        "can_be_monogrammed": false,
+        "initials_price": null,
+        "emoji_price": null,
+        "patch_initials_price": "0.0",
+        "available_on": "06/18/18",
+        "preorder": true,
+        "option_values": [
+          {
+            "id": 17,
+            "name": "domino",
+            "presentation": "Domino",
+            "option_type_id": 3,
+            "slug": "domino",
+            "position": 0
+          }
+        ],
+        "images": [
+          {
+            "id": 1680,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/680/plp/Domino-DT-Front_Strap.png?1510763868",
+            "kind": "default",
+            "position": 23
+          },
+          {
+            "id": 1675,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/675/plp/Domino-DT-Angle_Strap.png?1510763775",
+            "kind": "default",
+            "position": 24
+          },
+          {
+            "id": 1677,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/677/plp/Domino-DT-Back_Strap.png?1510763799",
+            "kind": "default",
+            "position": 25
+          },
+          {
+            "id": 1679,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/679/plp/Domino-DT-Front_Belt.png?1510763857",
+            "kind": "default",
+            "position": 26
+          },
+          {
+            "id": 1676,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/676/plp/Domino-Dt-Back_Belt.png?1510763786",
+            "kind": "default",
+            "position": 27
+          },
+          {
+            "id": 1678,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/678/plp/Domino-DT-Front.png?1510763837",
+            "kind": "default",
+            "position": 28
+          },
+          {
+            "id": 1681,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/681/plp/Domino-DT-Open.png?1510763884",
+            "kind": "default",
+            "position": 29
+          },
+          {
+            "id": 1691,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/691/plp/Doubletake-mannequin-domino-belt.png?1510764088",
+            "kind": "default",
+            "position": 30
+          },
+          {
+            "id": 1692,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/692/plp/Doubletake-mannequin-domino-strap.png?1510764099",
+            "kind": "default",
+            "position": 31
+          },
+          {
+            "id": 1696,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/696/plp/Domino-Doubletake-PLP1.png?1510764459",
+            "kind": "plp",
+            "position": 32
+          },
+          {
+            "id": 1699,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/699/plp/Domino-Doubletake-PLP-RO.png?1510765022",
+            "kind": "plp",
+            "position": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Boxer",
+    "slug": "boxer",
+    "shop_now": "Cosmetics, razors, odds and ends",
+    "category_ids": [
+      25
+    ],
+    "material_id": 27,
+    "color_id": 11,
+    "option_types": [
+      {
+        "id": 4,
+        "name": "Size"
+      },
+      {
+        "id": 3,
+        "name": "Color"
+      },
+      {
+        "id": 6,
+        "name": "Material"
+      }
+    ],
+    "variants": [
+      {
+        "id": 273,
+        "special_attribute_id": null,
+        "price": 155,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/555/monogram/Cadet-Boxer-Monogram.png?1506432154",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/555/original/Cadet-Boxer-Monogram.png?1506432154"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "06/18/18",
+        "preorder": true,
+        "option_values": [
+          {
+            "id": 25,
+            "name": "black linen",
+            "presentation": "Cadet",
+            "option_type_id": 3,
+            "slug": "cadet",
+            "position": 5
+          },
+          {
+            "id": 26,
+            "name": "linen",
+            "presentation": "Linen",
+            "option_type_id": 6,
+            "slug": "linen",
+            "position": 1
+          }
+        ],
+        "images": [
+          {
+            "id": 1480,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/480/plp/Cadet-Boxer-PLP.png?1522261787",
+            "kind": "plp",
+            "position": 9
+          },
+          {
+            "id": 1483,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/483/plp/Cadet-Boxer-PLP-2.png?1522261912",
+            "kind": "plp",
+            "position": 10
+          },
+          {
+            "id": 1479,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/479/plp/BB-Boxer-FRONT.png?1506376815",
+            "kind": "default",
+            "position": 11
+          },
+          {
+            "id": 1487,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/487/plp/BB-Boxer-Angle.png?1506377698",
+            "kind": "default",
+            "position": 12
+          },
+          {
+            "id": 1481,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/481/plp/BB-Boxer-bottom.png?1506376947",
+            "kind": "default",
+            "position": 13
+          },
+          {
+            "id": 1482,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/482/plp/BB-Boxer-Handle.png?1506377037",
+            "kind": "default",
+            "position": 14
+          },
+          {
+            "id": 1488,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/488/plp/BB-Boxer-OPEN.png?1506377722",
+            "kind": "default",
+            "position": 15
+          },
+          {
+            "id": 1555,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/555/plp/Cadet-Boxer-Monogram.png?1506432154",
+            "kind": "monogram",
+            "position": 16
+          },
+          {
+            "id": 1605,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/605/plp/Cadet-Swatch.png?1509121682",
+            "kind": "default",
+            "position": 17
+          }
+        ]
+      },
+      {
+        "id": 155,
+        "special_attribute_id": null,
+        "price": 140,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/905/monogram/Domino_Boxer_Monogram5.png?1501620263",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/905/original/Domino_Boxer_Monogram5.png?1501620263"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "06/18/18",
+        "preorder": true,
+        "option_values": [
+          {
+            "id": 17,
+            "name": "domino",
+            "presentation": "Domino",
+            "option_type_id": 3,
+            "slug": "domino",
+            "position": 0
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 888,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/888/plp/Domino-Boxer-PLP-2.png?1522259549",
+            "kind": "plp",
+            "position": 14
+          },
+          {
+            "id": 1414,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/414/plp/Dom-Boxer-PLP4.png?1522259668",
+            "kind": "plp",
+            "position": 15
+          },
+          {
+            "id": 883,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/883/plp/Domino-Boxer-Front.png?1497453675",
+            "kind": "default",
+            "position": 16
+          },
+          {
+            "id": 884,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/884/plp/Domino-Boxer-Angle.png?1497453694",
+            "kind": "default",
+            "position": 17
+          },
+          {
+            "id": 885,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/885/plp/Domino-Boxer-Bottom.png?1497453714",
+            "kind": "default",
+            "position": 18
+          },
+          {
+            "id": 886,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/886/plp/Domino-Boxer-Handle.png?1497453732",
+            "kind": "default",
+            "position": 20
+          },
+          {
+            "id": 887,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/887/plp/Domino-Boxer-Open.png?1497453753",
+            "kind": "default",
+            "position": 22
+          },
+          {
+            "id": 905,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/905/plp/Domino_Boxer_Monogram5.png?1501620263",
+            "kind": "monogram",
+            "position": 23
+          },
+          {
+            "id": 1067,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/067/plp/Domino-Swatch-v3.png?1499695400",
+            "kind": "default",
+            "position": 24
+          }
+        ]
+      },
+      {
+        "id": 87,
+        "special_attribute_id": null,
+        "price": 140,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/847/monogram/M-Boxer-Scout-Retina.png?1492772327",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/847/original/M-Boxer-Scout-Retina.png?1492772327"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "06/18/18",
+        "preorder": true,
+        "option_values": [
+          {
+            "id": 11,
+            "name": "camel",
+            "presentation": "Scout",
+            "option_type_id": 3,
+            "slug": "scout",
+            "position": 4
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 351,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/351/plp/Scout-Boxer-PLP1.png?1522261970",
+            "kind": "plp",
+            "position": 41
+          },
+          {
+            "id": 1413,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/413/plp/Scout-Boxer-PLP-2.png?1522261928",
+            "kind": "plp",
+            "position": 42
+          },
+          {
+            "id": 583,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/583/plp/5.png?1481750660",
+            "kind": "default",
+            "position": 43
+          },
+          {
+            "id": 584,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/584/plp/2.png?1481750710",
+            "kind": "default",
+            "position": 44
+          },
+          {
+            "id": 585,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/585/plp/1.png?1481750807",
+            "kind": "default",
+            "position": 45
+          },
+          {
+            "id": 586,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/586/plp/3.png?1481750864",
+            "kind": "default",
+            "position": 47
+          },
+          {
+            "id": 587,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/587/plp/4.png?1481750892",
+            "kind": "default",
+            "position": 49
+          },
+          {
+            "id": 847,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/847/plp/M-Boxer-Scout-Retina.png?1492772327",
+            "kind": "monogram",
+            "position": 50
+          },
+          {
+            "id": 1069,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/069/plp/Scout-Swatch-v3.png?1499695467",
+            "kind": "default",
+            "position": 51
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "special_attribute_id": null,
+        "price": 140,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/807/monogram/M-Boxer-Bebop-Retina.png?1492772382",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/807/original/M-Boxer-Bebop-Retina.png?1492772382"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "06/18/18",
+        "preorder": true,
+        "option_values": [
+          {
+            "id": 8,
+            "name": "red",
+            "presentation": "Bebop",
+            "option_type_id": 3,
+            "slug": "bebop",
+            "position": 7
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 577,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/577/plp/Bebop-Boxer-PLP.png?1522261738",
+            "kind": "plp",
+            "position": 0
+          },
+          {
+            "id": 1410,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/410/plp/BEBOP-Boxer-PLP3.png?1522261755",
+            "kind": "plp",
+            "position": 1
+          },
+          {
+            "id": 637,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/637/plp/red5.png?1481768691",
+            "kind": "default",
+            "position": 2
+          },
+          {
+            "id": 638,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/638/plp/red2.png?1481768716",
+            "kind": "default",
+            "position": 3
+          },
+          {
+            "id": 639,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/639/plp/red1.png?1481768741",
+            "kind": "default",
+            "position": 4
+          },
+          {
+            "id": 640,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/640/plp/red3.png?1481768769",
+            "kind": "default",
+            "position": 5
+          },
+          {
+            "id": 641,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/641/plp/red4.png?1481768798",
+            "kind": "default",
+            "position": 6
+          },
+          {
+            "id": 807,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/807/plp/M-Boxer-Bebop-Retina.png?1492772382",
+            "kind": "monogram",
+            "position": 7
+          },
+          {
+            "id": 1065,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/065/plp/Bebop-Swatch-v3.png?1499695367",
+            "kind": "default",
+            "position": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Wash Kit",
+    "slug": "wash-kit",
+    "shop_now": "Lotions, potions, shampoos, soaps",
+    "category_ids": [
+      25
+    ],
+    "material_id": 27,
+    "color_id": 11,
+    "option_types": [
+      {
+        "id": 4,
+        "name": "Size"
+      },
+      {
+        "id": 3,
+        "name": "Color"
+      },
+      {
+        "id": 6,
+        "name": "Material"
+      }
+    ],
+    "variants": [
+      {
+        "id": 279,
+        "special_attribute_id": null,
+        "price": 115,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/563/monogram/Cadet_Wash-Kit_Monogram.png?1506438436",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/563/original/Cadet_Wash-Kit_Monogram.png?1506438436"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "06/15/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 25,
+            "name": "black linen",
+            "presentation": "Cadet",
+            "option_type_id": 3,
+            "slug": "cadet",
+            "position": 5
+          },
+          {
+            "id": 26,
+            "name": "linen",
+            "presentation": "Linen",
+            "option_type_id": 6,
+            "slug": "linen",
+            "position": 1
+          }
+        ],
+        "images": [
+          {
+            "id": 1499,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/499/plp/BB-Wash-Kit-Front.png?1506378816",
+            "kind": "default",
+            "position": 7
+          },
+          {
+            "id": 1498,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/498/plp/BB-Wash-Kit-Angle.png?1506378802",
+            "kind": "default",
+            "position": 8
+          },
+          {
+            "id": 1500,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/500/plp/BB-Wash-Kit-Open.png?1506378828",
+            "kind": "default",
+            "position": 9
+          },
+          {
+            "id": 1501,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/501/plp/Cadet-Wash-Kit-PLP.png?1506378975",
+            "kind": "plp",
+            "position": 10
+          },
+          {
+            "id": 1549,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/549/plp/Wash-kit-PLP2.png?1506383578",
+            "kind": "plp",
+            "position": 11
+          },
+          {
+            "id": 1563,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/563/plp/Cadet_Wash-Kit_Monogram.png?1506438436",
+            "kind": "monogram",
+            "position": 12
+          },
+          {
+            "id": 1619,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/619/plp/Cadet-Swatch.png?1509122306",
+            "kind": "default",
+            "position": 13
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "special_attribute_id": null,
+        "price": 95,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/804/monogram/M-Wash-Kit-Retina-JETTY_FINAL.png?1494620169",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/804/original/M-Wash-Kit-Retina-JETTY_FINAL.png?1494620169"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "08/14/17",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 9,
+            "name": "blue",
+            "presentation": "Jetty",
+            "option_type_id": 3,
+            "slug": "jetty",
+            "position": 6
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 483,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/483/plp/Jetty-Wash-Kit-PLPv2.png?1499884741",
+            "kind": "plp",
+            "position": 28
+          },
+          {
+            "id": 1439,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/439/plp/Jetty-Washkit-PLP.png?1505743586",
+            "kind": "plp",
+            "position": 29
+          },
+          {
+            "id": 662,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/662/plp/blue1.png?1481769630",
+            "kind": "default",
+            "position": 30
+          },
+          {
+            "id": 663,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/663/plp/blue3.png?1481769656",
+            "kind": "default",
+            "position": 31
+          },
+          {
+            "id": 664,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/664/plp/blue2.png?1481769690",
+            "kind": "default",
+            "position": 32
+          },
+          {
+            "id": 804,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/804/plp/M-Wash-Kit-Retina-JETTY_FINAL.png?1494620169",
+            "kind": "monogram",
+            "position": 33
+          },
+          {
+            "id": 1108,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/108/plp/Jetty-Swatch-v3.png?1499696981",
+            "kind": "default",
+            "position": 34
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "special_attribute_id": null,
+        "price": 95,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/803/monogram/M-Wash-Kit-Retina-BEBOP_FINAL.png?1494620110",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/803/original/M-Wash-Kit-Retina-BEBOP_FINAL.png?1494620110"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 8,
+            "name": "red",
+            "presentation": "Bebop",
+            "option_type_id": 3,
+            "slug": "bebop",
+            "position": 7
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 656,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/656/plp/red1.png?1481769429",
+            "kind": "default",
+            "position": 0
+          },
+          {
+            "id": 429,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/429/plp/Bebop-Wash-Kit-PLPv2.png?1499884695",
+            "kind": "plp",
+            "position": 1
+          },
+          {
+            "id": 1440,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/440/plp/Bebop-Wash-kit-PLP.png?1505743540",
+            "kind": "plp",
+            "position": 2
+          },
+          {
+            "id": 657,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/657/plp/red3.png?1481769478",
+            "kind": "default",
+            "position": 3
+          },
+          {
+            "id": 658,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/658/plp/red2.png?1481769494",
+            "kind": "default",
+            "position": 4
+          },
+          {
+            "id": 803,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/803/plp/M-Wash-Kit-Retina-BEBOP_FINAL.png?1494620110",
+            "kind": "monogram",
+            "position": 5
+          },
+          {
+            "id": 1106,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/106/plp/Bebop-Swatch-v3.png?1499696950",
+            "kind": "default",
+            "position": 6
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "special_attribute_id": null,
+        "price": 95,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/806/monogram/M-Wash-Kit-Retina-SCOUT_FINAL.png?1494620200",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/806/original/M-Wash-Kit-Retina-SCOUT_FINAL.png?1494620200"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 11,
+            "name": "camel",
+            "presentation": "Scout",
+            "option_type_id": 3,
+            "slug": "scout",
+            "position": 4
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 427,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/427/plp/Scout-Wash-Kit-PLPv2.png?1499884754",
+            "kind": "plp",
+            "position": 35
+          },
+          {
+            "id": 1442,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/442/plp/Scout-Wash-kit-PLP.png?1505743602",
+            "kind": "plp",
+            "position": 36
+          },
+          {
+            "id": 595,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/595/plp/1.png?1481751540",
+            "kind": "default",
+            "position": 37
+          },
+          {
+            "id": 596,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/596/plp/2.png?1481751557",
+            "kind": "default",
+            "position": 38
+          },
+          {
+            "id": 597,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/597/plp/3.png?1481751588",
+            "kind": "default",
+            "position": 39
+          },
+          {
+            "id": 806,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/806/plp/M-Wash-Kit-Retina-SCOUT_FINAL.png?1494620200",
+            "kind": "monogram",
+            "position": 40
+          },
+          {
+            "id": 1110,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/110/plp/Scout-Swatch-v3.png?1499697012",
+            "kind": "default",
+            "position": 41
+          }
+        ]
+      },
+      {
+        "id": 154,
+        "special_attribute_id": null,
+        "price": 95,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/904/monogram/Domino_Wash_Kit_Monogram.png?1497458003",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/904/original/Domino_Wash_Kit_Monogram.png?1497458003"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 17,
+            "name": "domino",
+            "presentation": "Domino",
+            "option_type_id": 3,
+            "slug": "domino",
+            "position": 0
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 882,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/882/plp/Domino-Wash-Kit-PLPv2.png?1499884715",
+            "kind": "plp",
+            "position": 14
+          },
+          {
+            "id": 1443,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/443/plp/Domino-Wash-kit-PLP.png?1505743551",
+            "kind": "plp",
+            "position": 15
+          },
+          {
+            "id": 879,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/879/plp/Domino-Wash-Kit-Front.png?1497453093",
+            "kind": "default",
+            "position": 16
+          },
+          {
+            "id": 880,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/880/plp/Domino-Wash-Kit-Angle.png?1497453124",
+            "kind": "default",
+            "position": 17
+          },
+          {
+            "id": 881,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/881/plp/Domino-Wash-Kit-Open.png?1497453150",
+            "kind": "default",
+            "position": 18
+          },
+          {
+            "id": 904,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/904/plp/Domino_Wash_Kit_Monogram.png?1497458003",
+            "kind": "monogram",
+            "position": 19
+          },
+          {
+            "id": 1107,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/107/plp/Domino-Swatch-v3.png?1499696967",
+            "kind": "default",
+            "position": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Zip-Top Pouch",
+    "slug": "zip-top-pouch",
+    "shop_now": "Keys, wallet, phone",
+    "category_ids": [
+      25
+    ],
+    "material_id": 27,
+    "color_id": 11,
+    "option_types": [
+      {
+        "id": 3,
+        "name": "Color"
+      },
+      {
+        "id": 6,
+        "name": "Material"
+      }
+    ],
+    "variants": [
+      {
+        "id": 128,
+        "special_attribute_id": null,
+        "price": 65,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/834/monogram/M-Small-Zip-Top-Pouch-Retina-JETTY_FINAL-2.png?1494880324",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/834/original/M-Small-Zip-Top-Pouch-Retina-JETTY_FINAL-2.png?1494880324"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "25.0",
+        "available_on": "08/14/17",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 9,
+            "name": "blue",
+            "presentation": "Jetty",
+            "option_type_id": 3,
+            "slug": "jetty",
+            "position": 6
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 825,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/825/plp/SmallPochetteSize_blue.png?1490802360",
+            "kind": "default",
+            "position": 19
+          },
+          {
+            "id": 826,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/826/plp/SmallPochetteSize_blue.png?1490802376",
+            "kind": "plp",
+            "position": 21
+          },
+          {
+            "id": 834,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/834/plp/M-Small-Zip-Top-Pouch-Retina-JETTY_FINAL-2.png?1494880324",
+            "kind": "monogram",
+            "position": 23
+          },
+          {
+            "id": 1097,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/097/plp/Jetty-Swatch-v3.png?1499696774",
+            "kind": "default",
+            "position": 24
+          },
+          {
+            "id": 1429,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/429/plp/open-uri20170918-4-xct2ju?1505728247",
+            "kind": "plp",
+            "position": 25
+          }
+        ]
+      },
+      {
+        "id": 125,
+        "special_attribute_id": null,
+        "price": 65,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/833/monogram/M-Small-Zip-Top-Pouch-Retina-BEBOP-4.png?1494880146",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/833/original/M-Small-Zip-Top-Pouch-Retina-BEBOP-4.png?1494880146"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "08/21/17",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 8,
+            "name": "red",
+            "presentation": "Bebop",
+            "option_type_id": 3,
+            "slug": "bebop",
+            "position": 7
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 831,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/831/plp/SmallPochetteSize_red.png?1490802479",
+            "kind": "default",
+            "position": 3
+          },
+          {
+            "id": 832,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/832/plp/SmallPochetteSize_red.png?1490802497",
+            "kind": "plp",
+            "position": 5
+          },
+          {
+            "id": 833,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/833/plp/M-Small-Zip-Top-Pouch-Retina-BEBOP-4.png?1494880146",
+            "kind": "monogram",
+            "position": 7
+          },
+          {
+            "id": 1095,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/095/plp/Bebop-Swatch-v3.png?1499696658",
+            "kind": "default",
+            "position": 8
+          },
+          {
+            "id": 1430,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/430/plp/open-uri20170918-4-akrjkz?1505728247",
+            "kind": "plp",
+            "position": 9
+          }
+        ]
+      },
+      {
+        "id": 276,
+        "special_attribute_id": null,
+        "price": 70,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/572/monogram/Cadet-SmPouch-Monogram.png?1506440001",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/572/original/Cadet-SmPouch-Monogram.png?1506440001"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "08/14/17",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 25,
+            "name": "black linen",
+            "presentation": "Cadet",
+            "option_type_id": 3,
+            "slug": "cadet",
+            "position": 5
+          },
+          {
+            "id": 26,
+            "name": "linen",
+            "presentation": "Linen",
+            "option_type_id": 6,
+            "slug": "linen",
+            "position": 1
+          }
+        ],
+        "images": [
+          {
+            "id": 1502,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/502/plp/BB-Sm-Pouch_PLP.png?1506379020",
+            "kind": "plp",
+            "position": 0
+          },
+          {
+            "id": 1503,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/503/plp/BB-Sm-Pouch_PLP.png?1506379036",
+            "kind": "plp",
+            "position": 1
+          },
+          {
+            "id": 1486,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/486/plp/Cadet-Sm-Pouch1.png?1506455084",
+            "kind": "default",
+            "position": 2
+          },
+          {
+            "id": 1614,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/614/plp/Cadet-Swatch.png?1509122177",
+            "kind": "default",
+            "position": 3
+          },
+          {
+            "id": 1572,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/572/plp/Cadet-SmPouch-Monogram.png?1506440001",
+            "kind": "monogram",
+            "position": 4
+          }
+        ]
+      },
+      {
+        "id": 130,
+        "special_attribute_id": null,
+        "price": 65,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/852/monogram/M-Small-Zip-Top-Pouch-Retina-SCOUT_FINAL-2.png?1494880304",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/852/original/M-Small-Zip-Top-Pouch-Retina-SCOUT_FINAL-2.png?1494880304"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "10/30/17",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 11,
+            "name": "camel",
+            "presentation": "Scout",
+            "option_type_id": 3,
+            "slug": "scout",
+            "position": 4
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 850,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/850/plp/SmallPochetteSize_gold.png?1490805863",
+            "kind": "plp",
+            "position": 13
+          },
+          {
+            "id": 851,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/851/plp/SmallPochetteSize_gold.png?1490805878",
+            "kind": "default",
+            "position": 15
+          },
+          {
+            "id": 852,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/852/plp/M-Small-Zip-Top-Pouch-Retina-SCOUT_FINAL-2.png?1494880304",
+            "kind": "monogram",
+            "position": 17
+          },
+          {
+            "id": 1098,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/098/plp/Scout-Swatch-v3.png?1499696791",
+            "kind": "default",
+            "position": 18
+          },
+          {
+            "id": 1432,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/432/plp/open-uri20170918-4-1rnmn6z?1505728248",
+            "kind": "plp",
+            "position": 19
+          }
+        ]
+      },
+      {
+        "id": 157,
+        "special_attribute_id": null,
+        "price": 65,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/907/monogram/Domino_Small_Zip_Top_Pouch_Monogram.png?1497458131",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/907/original/Domino_Small_Zip_Top_Pouch_Monogram.png?1497458131"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "08/14/17",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 17,
+            "name": "domino",
+            "presentation": "Domino",
+            "option_type_id": 3,
+            "slug": "domino",
+            "position": 0
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 893,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/893/plp/Domino-Small_zZip_Top_Pouch.png?1497457164",
+            "kind": "default",
+            "position": 24
+          },
+          {
+            "id": 894,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/894/plp/Domino-Small_zZip_Top_Pouch.png?1497457215",
+            "kind": "plp",
+            "position": 26
+          },
+          {
+            "id": 907,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/907/plp/Domino_Small_Zip_Top_Pouch_Monogram.png?1497458131",
+            "kind": "monogram",
+            "position": 28
+          },
+          {
+            "id": 1096,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/096/plp/Domino-Swatch-v3.png?1499696669",
+            "kind": "default",
+            "position": 29
+          },
+          {
+            "id": 1433,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/433/plp/open-uri20170918-4-1nn7i3u?1505728249",
+            "kind": "plp",
+            "position": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Passport Wallet",
+    "slug": "passkeeper",
+    "shop_now": "Cash, plastic, and passport at hand",
+    "category_ids": [
+      25
+    ],
+    "material_id": 27,
+    "color_id": 11,
+    "option_types": [
+      {
+        "id": 3,
+        "name": "Color"
+      },
+      {
+        "id": 6,
+        "name": "Material"
+      }
+    ],
+    "variants": [
+      {
+        "id": 59,
+        "special_attribute_id": null,
+        "price": 75,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/791/monogram/M-Passkeeper-Bebop-Retina.png?1492772484",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/791/original/M-Passkeeper-Bebop-Retina.png?1492772484"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "05/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 8,
+            "name": "red",
+            "presentation": "Bebop",
+            "option_type_id": 3,
+            "slug": "bebop",
+            "position": 7
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 1435,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/435/plp/bebop-passkeeper-plp1.png?1510938613",
+            "kind": "plp",
+            "position": 19
+          },
+          {
+            "id": 463,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/463/plp/Bebop-passkeeper-plp-RO.png?1510938897",
+            "kind": "plp",
+            "position": 20
+          },
+          {
+            "id": 650,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/650/plp/red1.png?1481769153",
+            "kind": "default",
+            "position": 21
+          },
+          {
+            "id": 651,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/651/plp/red3.png?1481769183",
+            "kind": "default",
+            "position": 22
+          },
+          {
+            "id": 652,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/652/plp/red2.png?1481769201",
+            "kind": "default",
+            "position": 23
+          },
+          {
+            "id": 791,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/791/plp/M-Passkeeper-Bebop-Retina.png?1492772484",
+            "kind": "monogram",
+            "position": 25
+          },
+          {
+            "id": 1090,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/090/plp/Bebop-Swatch-v3.png?1499696551",
+            "kind": "default",
+            "position": 26
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "special_attribute_id": null,
+        "price": 75,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/794/monogram/M-Passkeeper-Scout-Retina.png?1492772421",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/794/original/M-Passkeeper-Scout-Retina.png?1492772421"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 11,
+            "name": "camel",
+            "presentation": "Scout",
+            "option_type_id": 3,
+            "slug": "scout",
+            "position": 4
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 525,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/525/plp/scout-passkeeper-plp1.png?1510938635",
+            "kind": "plp",
+            "position": 33
+          },
+          {
+            "id": 1437,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/437/plp/Scout-passkeeper-plp-RO.png?1510938922",
+            "kind": "plp",
+            "position": 34
+          },
+          {
+            "id": 592,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/592/plp/1.png?1481751319",
+            "kind": "default",
+            "position": 35
+          },
+          {
+            "id": 593,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/593/plp/3.png?1481751404",
+            "kind": "default",
+            "position": 36
+          },
+          {
+            "id": 594,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/594/plp/2.png?1481751430",
+            "kind": "default",
+            "position": 37
+          },
+          {
+            "id": 794,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/794/plp/M-Passkeeper-Scout-Retina.png?1492772421",
+            "kind": "monogram",
+            "position": 39
+          },
+          {
+            "id": 1094,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/094/plp/Scout-Swatch-v3.png?1499696620",
+            "kind": "default",
+            "position": 40
+          }
+        ]
+      },
+      {
+        "id": 156,
+        "special_attribute_id": null,
+        "price": 75,
+        "can_supply": true,
+        "retina_images_for_monogram": [
+          [
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/906/monogram/Domino_Passkeeper_Monogram.png?1497458084",
+            "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/906/original/Domino_Passkeeper_Monogram.png?1497458084"
+          ]
+        ],
+        "can_be_monogrammed": true,
+        "initials_price": "45.0",
+        "emoji_price": "55.0",
+        "patch_initials_price": "20.0",
+        "available_on": "06/18/18",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 17,
+            "name": "domino",
+            "presentation": "Domino",
+            "option_type_id": 3,
+            "slug": "domino",
+            "position": 0
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 892,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/892/plp/domino-passkeeper-plp1.png?1510938581",
+            "kind": "plp",
+            "position": 5
+          },
+          {
+            "id": 1438,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/438/plp/Domino-passkeeper-plp-RO.png?1510938876",
+            "kind": "plp",
+            "position": 6
+          },
+          {
+            "id": 889,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/889/plp/Domino-Passkeeper-Front.png?1497454018",
+            "kind": "default",
+            "position": 7
+          },
+          {
+            "id": 890,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/890/plp/Domino-Passkeeper-Open.png?1497454033",
+            "kind": "default",
+            "position": 8
+          },
+          {
+            "id": 891,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/891/plp/Domino-Passkeeper-Side.png?1497454050",
+            "kind": "default",
+            "position": 9
+          },
+          {
+            "id": 906,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/906/plp/Domino_Passkeeper_Monogram.png?1497458084",
+            "kind": "monogram",
+            "position": 11
+          },
+          {
+            "id": 1091,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/091/plp/Domino-Swatch-v3.png?1499696564",
+            "kind": "default",
+            "position": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Card Keeper",
+    "slug": "card-keeper",
+    "shop_now": "Cards and cash on-the-go",
+    "category_ids": [
+      25
+    ],
+    "material_id": 27,
+    "color_id": 11,
+    "option_types": [
+      {
+        "id": 3,
+        "name": "Color"
+      },
+      {
+        "id": 6,
+        "name": "Material"
+      }
+    ],
+    "variants": [
+      {
+        "id": 311,
+        "special_attribute_id": null,
+        "price": 50,
+        "can_supply": true,
+        "retina_images_for_monogram": [],
+        "can_be_monogrammed": false,
+        "initials_price": null,
+        "emoji_price": null,
+        "patch_initials_price": "0.0",
+        "available_on": "11/01/17",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 25,
+            "name": "black linen",
+            "presentation": "Cadet",
+            "option_type_id": 3,
+            "slug": "cadet",
+            "position": 5
+          },
+          {
+            "id": 26,
+            "name": "linen",
+            "presentation": "Linen",
+            "option_type_id": 6,
+            "slug": "linen",
+            "position": 1
+          }
+        ],
+        "images": [
+          {
+            "id": 1631,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/631/plp/Cadet-CardCase-Front.png?1509384982",
+            "kind": "default",
+            "position": 9
+          },
+          {
+            "id": 1630,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/630/plp/Cadet-CardCase-Back.png?1509384974",
+            "kind": "default",
+            "position": 10
+          },
+          {
+            "id": 1634,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/634/plp/Cadet-CardCase-Back-PLP.png?1509385144",
+            "kind": "plp",
+            "position": 11
+          },
+          {
+            "id": 1635,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/635/plp/Cadet-CardCase-Front-PLP.png?1509385152",
+            "kind": "plp",
+            "position": 12
+          }
+        ]
+      },
+      {
+        "id": 269,
+        "special_attribute_id": null,
+        "price": 45,
+        "can_supply": true,
+        "retina_images_for_monogram": [],
+        "can_be_monogrammed": false,
+        "initials_price": null,
+        "emoji_price": null,
+        "patch_initials_price": "0.0",
+        "available_on": "11/01/17",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 17,
+            "name": "domino",
+            "presentation": "Domino",
+            "option_type_id": 3,
+            "slug": "domino",
+            "position": 0
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 1624,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/624/plp/Domino-CardCase-Front.png?1509384915",
+            "kind": "default",
+            "position": 0
+          },
+          {
+            "id": 1625,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/625/plp/Domino-CardCase-Back.png?1509384924",
+            "kind": "default",
+            "position": 1
+          },
+          {
+            "id": 1636,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/636/plp/Domino-CardCase-Back-PLP.png?1509385171",
+            "kind": "plp",
+            "position": 2
+          },
+          {
+            "id": 1637,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/637/plp/Domino-CardCase-Front-PLP.png?1509385181",
+            "kind": "plp",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "id": 268,
+        "special_attribute_id": null,
+        "price": 45,
+        "can_supply": true,
+        "retina_images_for_monogram": [],
+        "can_be_monogrammed": false,
+        "initials_price": null,
+        "emoji_price": null,
+        "patch_initials_price": "0.0",
+        "available_on": "11/01/17",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 11,
+            "name": "camel",
+            "presentation": "Scout",
+            "option_type_id": 3,
+            "slug": "scout",
+            "position": 4
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 1620,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/620/plp/Scout-CardCase-Front.png?1509384690",
+            "kind": "default",
+            "position": 21
+          },
+          {
+            "id": 1621,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/621/plp/Scout-CardCase-back.png?1509384714",
+            "kind": "default",
+            "position": 22
+          },
+          {
+            "id": 1642,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/642/plp/Scout-CardCase-Back-PLP.png?1509385247",
+            "kind": "plp",
+            "position": 23
+          },
+          {
+            "id": 1643,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/643/plp/Scout-CardCase-Front-PLP.png?1509385281",
+            "kind": "plp",
+            "position": 24
+          }
+        ]
+      },
+      {
+        "id": 266,
+        "special_attribute_id": null,
+        "price": 45,
+        "can_supply": true,
+        "retina_images_for_monogram": [],
+        "can_be_monogrammed": false,
+        "initials_price": null,
+        "emoji_price": null,
+        "patch_initials_price": "0.0",
+        "available_on": "11/01/17",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 8,
+            "name": "red",
+            "presentation": "Bebop",
+            "option_type_id": 3,
+            "slug": "bebop",
+            "position": 7
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 1622,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/622/plp/Bebop-CardCase-Front.png?1509384889",
+            "kind": "default",
+            "position": 17
+          },
+          {
+            "id": 1623,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/623/plp/Bebop-CardCase-Back.png?1509384906",
+            "kind": "default",
+            "position": 18
+          },
+          {
+            "id": 1632,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/632/plp/Bebop-CardCase-back-PLP.png?1509385118",
+            "kind": "plp",
+            "position": 19
+          },
+          {
+            "id": 1633,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/633/plp/Bebop-CardCase-Front-PLP.png?1509385164",
+            "kind": "plp",
+            "position": 20
+          }
+        ]
+      },
+      {
+        "id": 265,
+        "special_attribute_id": null,
+        "price": 45,
+        "can_supply": true,
+        "retina_images_for_monogram": [],
+        "can_be_monogrammed": false,
+        "initials_price": null,
+        "emoji_price": null,
+        "patch_initials_price": "0.0",
+        "available_on": "11/01/17",
+        "preorder": false,
+        "option_values": [
+          {
+            "id": 9,
+            "name": "blue",
+            "presentation": "Jetty",
+            "option_type_id": 3,
+            "slug": "jetty",
+            "position": 6
+          },
+          {
+            "id": 27,
+            "name": "canvas",
+            "presentation": "Canvas",
+            "option_type_id": 6,
+            "slug": "canvas",
+            "position": 2
+          }
+        ],
+        "images": [
+          {
+            "id": 1627,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/627/plp/Jetty-CardCase-Front.png?1509384941",
+            "kind": "default",
+            "position": 13
+          },
+          {
+            "id": 1626,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/626/plp/Jetty-CardCase-Back1.png?1509550086",
+            "kind": "default",
+            "position": 14
+          },
+          {
+            "id": 1638,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/638/plp/Jetty-CardCase-Back-PLP1.png?1509550099",
+            "kind": "plp",
+            "position": 15
+          },
+          {
+            "id": 1639,
+            "url": "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/639/plp/Jetty-CardCase-Front-PLP.png?1509385207",
+            "kind": "plp",
+            "position": 16
+          }
+        ]
+      }
+    ]
+  }
+]

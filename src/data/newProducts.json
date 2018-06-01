@@ -1,0 +1,493 @@
+[
+  {
+    "id": 440,
+    "name": "Main Line Duffel",
+    "colors": [
+      {
+        "price": 285,
+        "name": "brown",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/956/plp/Scout-Mainline-Front.png?1525704862",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/955/plp/Scout-Mainline-Angle.png?1525704130"
+        ]
+      },
+      {
+        "price": 285,
+        "name": "red",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/958/plp/Bebop-Mainline-Front.png?1525705768",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/957/plp/Bebop-Mainline-Angle.png?1525705765"
+        ]
+      },
+      {
+        "price": 285,
+        "name": "grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/975/plp/Domino-Mainline-Front.png?1525734606",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/961/plp/Domino-Mainline-Angle.png?1525705905"
+        ]
+      },
+      {
+        "price": 285,
+        "name": "blue",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/973/plp/Jetty-Mainline-Front.png?1525707651",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/965/plp/Jetty-Mainline-Angle.png?1525706872"
+        ]
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": 30,
+    "name": "Grand Tour",
+    "colors": [
+      {
+        "price": 365,
+        "name": "blue",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/371/plp/Jetty-GrandTour-front_strap.png?1525736221",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/375/plp/blue_duffel.png?1479228669"
+        ]
+      },
+      {
+        "price": 365,
+        "name": "red",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/551/plp/Bebop_GT_Front_Strap-update.png?1525736205",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/378/plp/red_duffel.png?1479228732"
+        ]
+      },
+      {
+        "price": 365,
+        "name": "brown",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/374/plp/Scout-Grand-Tour-Front_Strap.png?1525736355",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/377/plp/tan_duffel.png?1482291588"
+        ]
+      },
+      {
+        "price": 365,
+        "name": "grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/977/plp/Domino-Grand-Tour-Front-Strap-update.png?1525735384",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/861/plp/Domino-Grand-Tour-Angle-v2.png?1497451613"
+        ]
+      },
+      {
+        "price": 385,
+        "name": "blue-grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/529/plp/BB-Grand-Tour-Front_Strap-update.png?1525736136",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/521/plp/BB-Grand-Tour-Angle.png?1506379592"
+        ]
+      }
+    ],
+    "categories": [
+      "Luggage"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Stowaway",
+    "colors": [
+      {
+        "price": 325,
+        "name": "brown",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/451/plp/20160925_Paravel_02_01.png?1494602466",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/472/plp/Scout-Stowaway-PLP2.png?1506018400"
+        ]
+      },
+      {
+        "price": 325,
+        "name": "blue",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/509/plp/bluee.png?1479406690",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/470/plp/Jetty-Stowaway-PLP2.png?1506018359"
+        ]
+      },
+      {
+        "price": 325,
+        "name": "red",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/510/plp/Bebop-Stowaway-PLP.png?1505250953",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/469/plp/Bebop-Stowaway-PLP2.png?1506018304"
+        ]
+      },
+      {
+        "price": 345,
+        "name": "blue-grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/539/plp/Cadet-Stowaway-PLP.png?1506380164",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/550/plp/Cadet-Stowaway-PLP2.png?1506385335"
+        ]
+      },
+      {
+        "price": 325,
+        "name": "grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/872/plp/Domino_PLP.png?1497471954",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/473/plp/Domino-Stowaway-PLP2.png?1506018324"
+        ]
+      }
+    ],
+    "categories": [
+      "Luggage"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Week(ender)",
+    "colors": [
+      {
+        "price": 365,
+        "name": "blue-grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/545/plp/Cadet-Weekender-PLP.png?1506381155",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/546/plp/Cadet-Weekender-PLP2.png?1506381175"
+        ]
+      },
+      {
+        "price": 345,
+        "name": "grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/956/plp/Domino-Weekender-Front-PDP-v2.png?1498578079",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/458/plp/Domino-Weekender-PLP.png?1505742287"
+        ]
+      },
+      {
+        "price": 345,
+        "name": "brown",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/959/plp/Scout-Weekender-Front-PDP-v2.png?1498578157",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/457/plp/Scout-Weekender-PLP.png?1505742408"
+        ]
+      },
+      {
+        "price": 345,
+        "name": "red",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/955/plp/Bebop-Weekender-Front-PDP-v2.png?1498578054",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/455/plp/Bebop-Weekender-PLP.png?1505742272"
+        ]
+      },
+      {
+        "price": 345,
+        "name": "blue",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/957/plp/Jetty-Weekender-Front-PDP-v2.png?1498578100",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/454/plp/Jetty-Weekender-PLP.png?1505742354"
+        ]
+      }
+    ],
+    "categories": [
+      "Luggage",
+      "Bags"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Crossbody Capsule",
+    "colors": [
+      {
+        "price": 265,
+        "name": "brown",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/455/plp/SCOUT-Crossbody-PLP-v4.png?1498750831",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/452/plp/scout-Crossbody-PLP2.png?1506360698"
+        ]
+      },
+      {
+        "price": 285,
+        "name": "blue-grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/510/plp/Cadet-Crossbody-PLP.png?1506379451",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/517/plp/BB-Crossbody-Front_Strap.png?1506379544"
+        ]
+      },
+      {
+        "price": 265,
+        "name": "blue",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/452/plp/JETTY-Crossbody-PLP-v4.png?1498750796",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/450/plp/jetty-Crossbody-PLP2.png?1506361338"
+        ]
+      },
+      {
+        "price": 265,
+        "name": "red",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/488/plp/BEBOP-Crossbody-PLP-v4.png?1498750763",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/449/plp/Bebop-Crossbody-PLP2.png?1506361372"
+        ]
+      },
+      {
+        "price": 265,
+        "name": "grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/878/plp/DOMINO-Crossbody-PLP-v4.png?1498750780",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/453/plp/domino-Crossbody-PLP2.png?1506360757"
+        ]
+      }
+    ],
+    "categories": [
+      "Bags"
+    ]
+  },
+  {
+    "id": 338,
+    "name": "Doubletake",
+    "colors": [
+      {
+        "price": 215,
+        "name": "deep-orange-a",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/728/plp/Roulette-DT-Front_Strap.png?1510863312",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/723/plp/Roulette-DT-Angle_Strap.png?1510863244"
+        ]
+      },
+      {
+        "price": 215,
+        "name": "blue-grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/673/plp/Derby-Dt-Front_Strap.png?1510763692",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/668/plp/Derby-Dt-Angle_Strap.png?1510763628"
+        ]
+      },
+      {
+        "price": 195,
+        "name": "grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/680/plp/Domino-DT-Front_Strap.png?1510763868",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/675/plp/Domino-DT-Angle_Strap.png?1510763775"
+        ]
+      }
+    ],
+    "categories": [
+      "Bags YO",
+      "Bags"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Boxer",
+    "colors": [
+      {
+        "price": 155,
+        "name": "blue-grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/480/plp/Cadet-Boxer-PLP.png?1522261787",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/483/plp/Cadet-Boxer-PLP-2.png?1522261912"
+        ]
+      },
+      {
+        "price": 140,
+        "name": "grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/888/plp/Domino-Boxer-PLP-2.png?1522259549",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/414/plp/Dom-Boxer-PLP4.png?1522259668"
+        ]
+      },
+      {
+        "price": 140,
+        "name": "brown",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/351/plp/Scout-Boxer-PLP1.png?1522261970",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/413/plp/Scout-Boxer-PLP-2.png?1522261928"
+        ]
+      },
+      {
+        "price": 140,
+        "name": "red",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/577/plp/Bebop-Boxer-PLP.png?1522261738",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/410/plp/BEBOP-Boxer-PLP3.png?1522261755"
+        ]
+      }
+    ],
+    "categories": [
+      "Accessories"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Wash Kit",
+    "colors": [
+      {
+        "price": 115,
+        "name": "blue-grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/499/plp/BB-Wash-Kit-Front.png?1506378816",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/498/plp/BB-Wash-Kit-Angle.png?1506378802"
+        ]
+      },
+      {
+        "price": 95,
+        "name": "blue",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/483/plp/Jetty-Wash-Kit-PLPv2.png?1499884741",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/439/plp/Jetty-Washkit-PLP.png?1505743586"
+        ]
+      },
+      {
+        "price": 95,
+        "name": "red",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/656/plp/red1.png?1481769429",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/429/plp/Bebop-Wash-Kit-PLPv2.png?1499884695"
+        ]
+      },
+      {
+        "price": 95,
+        "name": "brown",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/427/plp/Scout-Wash-Kit-PLPv2.png?1499884754",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/442/plp/Scout-Wash-kit-PLP.png?1505743602"
+        ]
+      },
+      {
+        "price": 95,
+        "name": "grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/882/plp/Domino-Wash-Kit-PLPv2.png?1499884715",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/443/plp/Domino-Wash-kit-PLP.png?1505743551"
+        ]
+      }
+    ],
+    "categories": [
+      "Accessories"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Zip-Top Pouch",
+    "colors": [
+      {
+        "price": 65,
+        "name": "blue",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/825/plp/SmallPochetteSize_blue.png?1490802360",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/826/plp/SmallPochetteSize_blue.png?1490802376"
+        ]
+      },
+      {
+        "price": 65,
+        "name": "red",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/831/plp/SmallPochetteSize_red.png?1490802479",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/832/plp/SmallPochetteSize_red.png?1490802497"
+        ]
+      },
+      {
+        "price": 70,
+        "name": "blue-grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/502/plp/BB-Sm-Pouch_PLP.png?1506379020",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/503/plp/BB-Sm-Pouch_PLP.png?1506379036"
+        ]
+      },
+      {
+        "price": 65,
+        "name": "brown",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/850/plp/SmallPochetteSize_gold.png?1490805863",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/851/plp/SmallPochetteSize_gold.png?1490805878"
+        ]
+      },
+      {
+        "price": 65,
+        "name": "grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/893/plp/Domino-Small_zZip_Top_Pouch.png?1497457164",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/894/plp/Domino-Small_zZip_Top_Pouch.png?1497457215"
+        ]
+      }
+    ],
+    "categories": [
+      "Accessories"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Passport Wallet",
+    "colors": [
+      {
+        "price": 75,
+        "name": "red",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/435/plp/bebop-passkeeper-plp1.png?1510938613",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/463/plp/Bebop-passkeeper-plp-RO.png?1510938897"
+        ]
+      },
+      {
+        "price": 75,
+        "name": "brown",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/525/plp/scout-passkeeper-plp1.png?1510938635",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/437/plp/Scout-passkeeper-plp-RO.png?1510938922"
+        ]
+      },
+      {
+        "price": 75,
+        "name": "grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/000/892/plp/domino-passkeeper-plp1.png?1510938581",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/438/plp/Domino-passkeeper-plp-RO.png?1510938876"
+        ]
+      }
+    ],
+    "categories": [
+      "Accessories"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Card Keeper",
+    "colors": [
+      {
+        "price": 50,
+        "name": "blue-grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/631/plp/Cadet-CardCase-Front.png?1509384982",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/630/plp/Cadet-CardCase-Back.png?1509384974"
+        ]
+      },
+      {
+        "price": 45,
+        "name": "grey",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/624/plp/Domino-CardCase-Front.png?1509384915",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/625/plp/Domino-CardCase-Back.png?1509384924"
+        ]
+      },
+      {
+        "price": 45,
+        "name": "brown",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/620/plp/Scout-CardCase-Front.png?1509384690",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/621/plp/Scout-CardCase-back.png?1509384714"
+        ]
+      },
+      {
+        "price": 45,
+        "name": "red",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/622/plp/Bebop-CardCase-Front.png?1509384889",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/623/plp/Bebop-CardCase-Back.png?1509384906"
+        ]
+      },
+      {
+        "price": 45,
+        "name": "blue",
+        "images": [
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/627/plp/Jetty-CardCase-Front.png?1509384941",
+          "https://d3pomqg3gz7350.cloudfront.net/spree/images/attachments/000/001/626/plp/Jetty-CardCase-Back1.png?1509550086"
+        ]
+      }
+    ],
+    "categories": [
+      "Accessories"
+    ]
+  }
+]
